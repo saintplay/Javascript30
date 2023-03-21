@@ -8,3 +8,5 @@ Ejercicios de manipulación de arreglos parte 1. El ejercicio se ejecutará sola
 
 - DevTools (console.log, console.table, inspect)
 - DOM Manipulation
+- Javsascript objects and arrays
+- Array map, filter, sort, reduce, forEach, split
